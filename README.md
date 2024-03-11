@@ -25,7 +25,7 @@ This project is divided into two parts:
 
 **Goal**: Visualize earthquake data provided by USGS.
 
-1. **Get Your Dataset**: Visit the USGS GeoJSON Feed [https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php](#) page and choose a dataset to visualize.
+1. **Get Your Dataset**: Visit the USGS GeoJSON [Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)(#) page and choose a dataset to visualize.
 
 2. **Import and Visualize the Data**:
    - Use Leaflet to create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
@@ -38,7 +38,7 @@ This project is divided into two parts:
 **Goal**: Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity.
 
 1. **Plot Tectonic Plates Dataset**:
-   - Pull in the tectonic plates dataset from [here](https://github.com/fraxen/tectonicplates).
+   - Pull in the tectonic plates dataset 
    - Visualize the tectonic plates dataset alongside the earthquake data.
    - Add other base maps to choose from.
    - Put each dataset into separate overlays that can be turned on and off independently.
