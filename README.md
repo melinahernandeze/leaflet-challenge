@@ -25,7 +25,7 @@ This project is divided into two parts:
 
 **Goal**: Visualize earthquake data provided by USGS.
 
-1. **Get Your Dataset**: Visit the [USGS GeoJSON Feed](#) page and choose a dataset to visualize.
+1. **Get Your Dataset**: Visit the USGS GeoJSON Feed [https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php] (#) page and choose a dataset to visualize.
 
 2. **Import and Visualize the Data**:
    - Use Leaflet to create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
